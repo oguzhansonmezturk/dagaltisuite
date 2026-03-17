@@ -4,6 +4,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 import Image from "next/image";
 import { Plus, Coffee, Waves, Flame, Heart, Tv } from "lucide-react";
+import { getAssetPath } from "@/lib/utils";
 
 const experiences = [
   {
@@ -83,7 +84,7 @@ export default function SuiteExperience() {
               {/* Background Backdrop */}
               <div className="absolute inset-0 z-0">
                 <Image 
-                  src={exp.image} 
+                  src={getAssetPath(exp.image)} 
                   alt={exp.title || "Deneyim"} 
                   fill 
                   className="object-cover brightness-105 saturate-[1.1] opacity-[0.1] contrast-75"
@@ -122,7 +123,7 @@ export default function SuiteExperience() {
                  <div className="hidden md:flex justify-end pr-12">
                     <div className="w-[450px] aspect-[4/5] relative rounded-[3rem] overflow-hidden shadow-2xl">
                       <Image 
-                        src={exp.image} 
+                        src={getAssetPath(exp.image)} 
                         alt={exp.title || "Detay"} 
                         fill 
                         className="object-cover" 

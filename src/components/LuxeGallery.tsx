@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import { X, ChevronLeft, ChevronRight, Maximize2 } from "lucide-react";
+import { cn, getAssetPath } from "@/lib/utils";
 
 const photos = [
   "/images/discekim1.jpeg",
@@ -85,7 +86,7 @@ export default function LuxeGallery() {
                 )}
               >
                 <Image 
-                  src={src} 
+                  src={getAssetPath(src)} 
                   alt="Dağaltı Suite" 
                   fill 
                   className="object-cover transition-transform duration-1000 group-hover:scale-110"
@@ -152,7 +153,7 @@ export default function LuxeGallery() {
             >
               <div className="relative w-full h-full max-h-[80vh] flex items-center justify-center rounded-[2rem] overflow-hidden">
                 <Image 
-                  src={photos[selectedIdx]} 
+                  src={getAssetPath(photos[selectedIdx])} 
                   alt="Full view" 
                   fill 
                   className="object-contain"
@@ -173,6 +174,3 @@ export default function LuxeGallery() {
   );
 }
 
-function cn(...classes: (string | boolean | undefined | null)[]) {
-  return classes.filter(Boolean).join(" ");
-}

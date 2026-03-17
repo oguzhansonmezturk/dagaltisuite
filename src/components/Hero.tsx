@@ -3,6 +3,7 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import Image from "next/image";
 import { useRef } from "react";
+import { getAssetPath } from "@/lib/utils";
 
 export default function Hero() {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -28,7 +29,7 @@ export default function Hero() {
           className="absolute inset-0 z-0 overflow-hidden"
         >
           <Image
-            src="/images/discekim1.jpeg"
+            src={getAssetPath("/images/discekim1.jpeg")}
             alt="Dağaltı Suite"
             fill
             className="object-cover brightness-[0.7] contrast-[1.2]"

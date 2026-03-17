@@ -3,7 +3,6 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: 'export',
   basePath: '/dagaltisuite',
-  assetPrefix: '/dagaltisuite',
   images: {
     unoptimized: true,
     remotePatterns: [
