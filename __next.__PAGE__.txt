@@ -1,14 +1,14 @@
 1:"$Sreact.fragment"
-2:I[24179,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/1dba650d16d012a5.js"],"default"]
-3:I[59461,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/1dba650d16d012a5.js"],"default"]
-4:I[32177,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/1dba650d16d012a5.js"],"default"]
-5:I[59171,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/1dba650d16d012a5.js"],"default"]
-6:I[65914,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/1dba650d16d012a5.js"],"default"]
-7:I[54723,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/1dba650d16d012a5.js"],"default"]
-8:I[53100,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/1dba650d16d012a5.js"],"default"]
-9:I[46424,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/1dba650d16d012a5.js"],"default"]
-a:I[95870,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/1dba650d16d012a5.js"],"default"]
+2:I[24179,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/cdb60ae449135973.js"],"default"]
+3:I[59461,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/cdb60ae449135973.js"],"default"]
+4:I[32177,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/cdb60ae449135973.js"],"default"]
+5:I[59171,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/cdb60ae449135973.js"],"default"]
+6:I[65914,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/cdb60ae449135973.js"],"default"]
+7:I[54723,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/cdb60ae449135973.js"],"default"]
+8:I[53100,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/cdb60ae449135973.js"],"default"]
+9:I[46424,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/cdb60ae449135973.js"],"default"]
+a:I[95870,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/cdb60ae449135973.js"],"default"]
 b:I[97367,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 c:"$Sreact.suspense"
-0:{"buildId":"Tocju30X0HCfA4aK26Ms7","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"relative bg-cream-luxe selection:bg-earth-luxe selection:text-forest-deep flex flex-col","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}]]}],[["$","script","script-0",{"src":"/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/dagaltisuite/_next/static/chunks/1dba650d16d012a5.js","async":true}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"GNMjPI5MFFG1KiUhqptyH","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"relative bg-cream-luxe selection:bg-earth-luxe selection:text-forest-deep flex flex-col","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}]]}],[["$","script","script-0",{"src":"/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/dagaltisuite/_next/static/chunks/cdb60ae449135973.js","async":true}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"loading":null,"isPartial":false}
 d:null
