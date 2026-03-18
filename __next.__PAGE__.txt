@@ -1,15 +1,15 @@
 1:"$Sreact.fragment"
-2:I[24179,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/7a1df58238844bff.js"],"default"]
-3:I[59461,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/7a1df58238844bff.js"],"default"]
-4:I[32177,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/7a1df58238844bff.js"],"default"]
-5:I[69179,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/7a1df58238844bff.js"],"default"]
-6:I[59171,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/7a1df58238844bff.js"],"default"]
-7:I[65914,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/7a1df58238844bff.js"],"default"]
-8:I[54723,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/7a1df58238844bff.js"],"default"]
-9:I[53100,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/7a1df58238844bff.js"],"default"]
-a:I[46424,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/7a1df58238844bff.js"],"default"]
-b:I[95870,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/7a1df58238844bff.js"],"default"]
+2:I[24179,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/0f811e0dd5a550a0.js"],"default"]
+3:I[59461,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/0f811e0dd5a550a0.js"],"default"]
+4:I[32177,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/0f811e0dd5a550a0.js"],"default"]
+5:I[69179,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/0f811e0dd5a550a0.js"],"default"]
+6:I[59171,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/0f811e0dd5a550a0.js"],"default"]
+7:I[65914,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/0f811e0dd5a550a0.js"],"default"]
+8:I[54723,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/0f811e0dd5a550a0.js"],"default"]
+9:I[53100,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/0f811e0dd5a550a0.js"],"default"]
+a:I[46424,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/0f811e0dd5a550a0.js"],"default"]
+b:I[95870,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/0f811e0dd5a550a0.js"],"default"]
 c:I[97367,["/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","/dagaltisuite/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 d:"$Sreact.suspense"
-0:{"buildId":"P52j4QGKmkcbp_tvkLNOn","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"relative bg-cream-luxe selection:bg-earth-luxe selection:text-forest-deep flex flex-col","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}]]}],[["$","script","script-0",{"src":"/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/dagaltisuite/_next/static/chunks/7a1df58238844bff.js","async":true}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"EeXoYE2g_D8D3CIr6mbMw","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"relative bg-cream-luxe selection:bg-earth-luxe selection:text-forest-deep flex flex-col","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}]]}],[["$","script","script-0",{"src":"/dagaltisuite/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/dagaltisuite/_next/static/chunks/0f811e0dd5a550a0.js","async":true}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"loading":null,"isPartial":false}
 e:null
